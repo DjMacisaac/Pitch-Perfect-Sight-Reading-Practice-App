@@ -58,7 +58,7 @@ To run Pitch Perfect:
 
    ```bash
 
-   git clone [https://github.com/COMP4721-F24/Team-1]
+   git clone [https://github.com/DjMacisaac/Pitch-Perfect-Sight-Reading-Practice-App.git]
    ```
 
 2. Open the project in your Java IDE (e.g., IntelliJ, Eclipse).
